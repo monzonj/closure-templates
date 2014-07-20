@@ -50,5 +50,5 @@ Instructions:
 
 Notes:
 
-+ Closure Templates requires Java 6 or higher:
++ Closure Templates requires Java 7 or higher:
     http://www.java.com/
